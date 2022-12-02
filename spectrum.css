@@ -1,0 +1,152 @@
+.red{
+    background-color: red;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    margin-left: 680px;
+    border:1px solid;
+}
+
+.orange{
+    background-color: orange;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 600px;
+    margin-top: 10px;
+
+}
+
+.orange2{
+    background-color: orange;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 760px;
+    margin-top: -202px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 525px;
+    margin-top: 10px;
+
+}
+
+.yellow2{
+    background-color: yellow;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 685px;
+    margin-top: -200px;
+
+}
+
+.yellow3{
+    background-color: yellow;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-top: -202px;
+    margin-left: 845px;
+}
+
+.lime{
+    background-color: lime;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-top: 10px;
+    margin-left: 450px;
+
+}.lime2{
+    background-color: lime;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 610px;
+    margin-top: -202px;
+}
+
+.lime3{
+    background-color: lime;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 770px;
+    margin-top: -202px;
+}
+
+.lime4{
+    background-color: lime;
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 930px;
+    margin-top: -202px;
+}
+
+.blue{
+    background-color: rgb(71, 71, 249);
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-top: 10px;
+    margin-left: 340px;
+}
+
+.blue2{
+    background-color: rgb(71, 71, 249);
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-top: -202px;
+    margin-left: 500px;
+}
+
+.blue3{
+    background-color: rgb(71, 71, 249);
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 660px;
+    margin-top: -202px;
+}
+
+
+.blue4{
+    background-color: rgb(71, 71, 249);
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 820px;
+    margin-top: -202px;
+}
+
+
+.blue5{
+    background-color: rgb(71, 71, 249);
+    width: 100px;
+    height: 150px;
+    padding: 25px;
+    border:1px solid;
+    margin-left: 980px;
+    margin-top: -202px;
+}
